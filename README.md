@@ -1,2 +1,2 @@
-# fittest
+# Hello, fittest
 FITのテストリポジトリです。
